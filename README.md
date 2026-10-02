@@ -215,3 +215,6 @@ Agentforce Subagents
 Outcome:
 
 The Support Ticket Intelligence solution enables automated support-ticket prioritization using Salesforce Agentforce. It improves support efficiency by identifying urgent issues, recommending escalation paths, and assisting support teams with faster response times. Agentforce can use Flow-based actions to execute business logic and return results directly within conversations.
+
+
+Deploy link : https://drive.google.com/file/d/1VrY9XkMxWB1nVeKYRyEm3ZOW7AWTqqGy/view?usp=sharing
